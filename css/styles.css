@@ -25,6 +25,8 @@ button {
     border: none;
     margin: 0 auto;
     font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em
    
 }
 
@@ -112,7 +114,8 @@ text-decoration: none;
   }
 
   .header-address {
-    letter-spacing: 0.02em
+    letter-spacing: 0.02em;
+    font-style: normal
   }
 
 /* hero-section*/
@@ -126,6 +129,16 @@ font-weight: 700;
 line-height: 1.07;
 text-align: center;
 margin: 0 auto;
+letter-spacing: 0.02em
+}
+
+.advantages-strategy {
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.advantages-one {
+letter-spacing: 0.02em
 }
 
 .menu-team {
